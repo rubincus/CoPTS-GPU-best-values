@@ -1,0 +1,343 @@
+{
+  "snapshot_date": "2026-09-14",
+  "hash_method": "SHA-256 of file bytes after replacing CRLF with LF",
+  "evaluator_sha256_normalized_lf": "66a5b6fed6f0e9967f5c65ad1aae67b171b17b086b577ac08c3d79faf1d54906",
+  "instances": {
+    "1_1": {
+      "path": "large_size/1_1.inc",
+      "sha256_normalized_lf": "9406f46314a91a54307b60953d4e8c70eb65ee9653959e2e44d24a863646711a",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 30
+    },
+    "1_2": {
+      "path": "large_size/1_2.inc",
+      "sha256_normalized_lf": "35b36b2aa311d5511ab33ad3fa9f3909842936e995628a8a0013bb2e92e002c0",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 30
+    },
+    "1_3": {
+      "path": "large_size/1_3.inc",
+      "sha256_normalized_lf": "b34db5cca979fdd0e203a3814a323cb0533c2e1700d6d557fd79d5c3113fb5fb",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 30
+    },
+    "2_1": {
+      "path": "large_size/2_1.inc",
+      "sha256_normalized_lf": "1dae49470058d7a7d846b1614ea52a3054571ea83ce99c1bb0b1772d841cb175",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 150
+    },
+    "2_2": {
+      "path": "large_size/2_2.inc",
+      "sha256_normalized_lf": "b6226a5bf726a9fc935f37bb1be75b53aee8ef7c055f484995153404b36c3852",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 150
+    },
+    "2_3": {
+      "path": "large_size/2_3.inc",
+      "sha256_normalized_lf": "ed46aaf004fec702b9dc1bc9bee6980c5bd5a8f1ff9cb2c69899af87e56b42c2",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 150
+    },
+    "3_1": {
+      "path": "large_size/3_1.inc",
+      "sha256_normalized_lf": "f7020b2784eb7d294562a372a5c2722271b368ad3b867c59e3feccbb8cf1116d",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 150
+    },
+    "3_2": {
+      "path": "large_size/3_2.inc",
+      "sha256_normalized_lf": "441b97dd4ded171434121c658167fadb00d8ce7c78353bad4de391a68342cd82",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 150
+    },
+    "3_3": {
+      "path": "large_size/3_3.inc",
+      "sha256_normalized_lf": "f97777336479ec98498d71a9897a8f0d124ced31fcbe8ac10d1178b7313fbd66",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 150
+    },
+    "4_1": {
+      "path": "large_size/4_1.inc",
+      "sha256_normalized_lf": "37ebcd1c7b77fa421d327c83aa963287d2ca4484e1957ba22a81ea85f4e172e1",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 150
+    },
+    "4_2": {
+      "path": "large_size/4_2.inc",
+      "sha256_normalized_lf": "35d947a463f15fb3b20cbe18c7e1d6da024bc23b7d478d5dae9f021925a53fc3",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 150
+    },
+    "4_3": {
+      "path": "large_size/4_3.inc",
+      "sha256_normalized_lf": "69b53e80922605bb93c7647fa20821d71775eb1b243842de78f759c00ce0bcfe",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 150
+    },
+    "7_1": {
+      "path": "large_size/7_1.inc",
+      "sha256_normalized_lf": "6a97454d53bd9e1c292e8ba60e4097fd26007bac04165e4adc41a876f1f71024",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 30
+    },
+    "7_2": {
+      "path": "large_size/7_2.inc",
+      "sha256_normalized_lf": "05b853814a2492a9eb1dce657503e4ae09ffe9553a462d3823f5591bf11ac92d",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 30
+    },
+    "7_3": {
+      "path": "large_size/7_3.inc",
+      "sha256_normalized_lf": "7640ac025407ecc21464cc9b20091b884b76d263bcf88a21d4580d2512648d35",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 30
+    },
+    "9_1": {
+      "path": "large_size/9_1.inc",
+      "sha256_normalized_lf": "3824a22757624b9a2f602dc0a417a7d819d7d5118778f171c8d4970b076a6581",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 30
+    },
+    "9_2": {
+      "path": "large_size/9_2.inc",
+      "sha256_normalized_lf": "91943a38614df100dfa7a7101dc22dc030b86d20042eec9c97f9d9429f474530",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 30
+    },
+    "9_3": {
+      "path": "large_size/9_3.inc",
+      "sha256_normalized_lf": "323cb283304c3b9adf47a9f9661d517457c785b1e6aaa3ff7f3231bc3400b27e",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 30
+    },
+    "10_1": {
+      "path": "large_size/10_1.inc",
+      "sha256_normalized_lf": "2ce2284478403f9d5cd68e4fde8ed5bc0412ed7d572feb9dce2c7ef93d068d47",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 30
+    },
+    "10_2": {
+      "path": "large_size/10_2.inc",
+      "sha256_normalized_lf": "45ab35db170939e5498cd6cebbe4e65b1afae0600e3d2d5c70b3bea1cd5ba02f",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 30
+    },
+    "10_3": {
+      "path": "large_size/10_3.inc",
+      "sha256_normalized_lf": "292266499a411681871d44deba637430f79b3c8c0d3bf529b1fdc55f293d3d21",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 30
+    },
+    "11_1": {
+      "path": "large_size/11_1.inc",
+      "sha256_normalized_lf": "3b3a86e21e402b18c8669416d4661730fe2c88a165127524de014507924ebe54",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 30
+    },
+    "11_2": {
+      "path": "large_size/11_2.inc",
+      "sha256_normalized_lf": "aa3d6c09810e6c09900d9264618769f7bee0bceb3e9b7127b655527982f8ae74",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 30
+    },
+    "11_3": {
+      "path": "large_size/11_3.inc",
+      "sha256_normalized_lf": "5846d29da1e883f068aa8517507eef4e22064ed70bb85b9cc4b847971f4e61d5",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 30
+    },
+    "12_1": {
+      "path": "large_size/12_1.inc",
+      "sha256_normalized_lf": "4865b5fecae465d58255ad635088e23dab6685c4e9d2940f84826fe6f1674526",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 150
+    },
+    "12_2": {
+      "path": "large_size/12_2.inc",
+      "sha256_normalized_lf": "fa0aa2ec67cb87cb7569deaed03cac11cb54e1a7f2af1fed535a28c584f1f3de",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 150
+    },
+    "12_3": {
+      "path": "large_size/12_3.inc",
+      "sha256_normalized_lf": "536800e8da3730a6408280358cb88fbcf56591d4eb7b35a4b3dc12f791afc225",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 150
+    },
+    "13_1": {
+      "path": "large_size/13_1.inc",
+      "sha256_normalized_lf": "1fcc6a1ea5e284675bb681affc14ef6fd1c2020eee0d0ffabcc52057a145b742",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 150
+    },
+    "13_2": {
+      "path": "large_size/13_2.inc",
+      "sha256_normalized_lf": "bc42f500d9e74f31fb7fc353c7b6c8f83bb70a2a9f1c3274e3f681518e6d7101",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 150
+    },
+    "13_3": {
+      "path": "large_size/13_3.inc",
+      "sha256_normalized_lf": "ce402116dc83ea9948758ceb9e830ccc2a5e173cfd4719b19b938a132b3fe2ab",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 150
+    },
+    "14_1": {
+      "path": "large_size/14_1.inc",
+      "sha256_normalized_lf": "483766b82a5d2429c8145ac384b163452608177b3f73461da6589474ff679e69",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 30
+    },
+    "14_2": {
+      "path": "large_size/14_2.inc",
+      "sha256_normalized_lf": "32b67ed229c80ab7a73702270ec54b67b9df2546cd95c6cea4543013a1d3593b",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 30
+    },
+    "14_3": {
+      "path": "large_size/14_3.inc",
+      "sha256_normalized_lf": "5fc67bf19be5655a9581ec29e416393c5f0a38d080f6413fdf02da91a763a0cf",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 30
+    },
+    "16_1": {
+      "path": "large_size/16_1.inc",
+      "sha256_normalized_lf": "5fe675afb7ba1b274c1963f45511f0380cc933d6736f0576fa7c6b9cb88833e5",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 30
+    },
+    "16_2": {
+      "path": "large_size/16_2.inc",
+      "sha256_normalized_lf": "354af9865fd4a96150beecc98fb500bd7b736970b149dbbf8ffc818491820b64",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 30
+    },
+    "16_3": {
+      "path": "large_size/16_3.inc",
+      "sha256_normalized_lf": "9aeb6b82a37af6406b15afa4f789417544d78340e4c9840b19d501be506c354d",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 30
+    },
+    "17_1": {
+      "path": "large_size/17_1.inc",
+      "sha256_normalized_lf": "5cb2b20ec6f0efe0a23291a0e9d626214d562852ccf21e18b4c4beebddae20e5",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 30
+    },
+    "17_2": {
+      "path": "large_size/17_2.inc",
+      "sha256_normalized_lf": "0cf787ab047e20376d45d0f1b2c6b6d51bbb9c4fbbf450b2ced829d74f883c29",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 30
+    },
+    "17_3": {
+      "path": "large_size/17_3.inc",
+      "sha256_normalized_lf": "a2f1159b3770043613c77e4ac01f801a564c413b44471b2141d586d68bf3dd03",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 30
+    },
+    "19_1": {
+      "path": "large_size/19_1.inc",
+      "sha256_normalized_lf": "b7d66ab55e8228c5e885a5f91a91297ba418239c65f54dc254dacfeaf90229d0",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 150
+    },
+    "19_2": {
+      "path": "large_size/19_2.inc",
+      "sha256_normalized_lf": "7dac7b6bb0ef24b7f53482e4258d72fb9316bfbef9d34b6b2eabf528aae468be",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 150
+    },
+    "19_3": {
+      "path": "large_size/19_3.inc",
+      "sha256_normalized_lf": "b0f7168dfe6cd3702ebebc4936cfb031ee91882448cd7f43593c5bab642d20fb",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 150
+    },
+    "21_1": {
+      "path": "large_size/21_1.inc",
+      "sha256_normalized_lf": "382a09f0183848fad99e926dfffbecb1f333300ad866eb721da13d2782af5755",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 150
+    },
+    "21_2": {
+      "path": "large_size/21_2.inc",
+      "sha256_normalized_lf": "a073e85b2693639b27ba54817cf760f21840cdea9a2f3c91f5b9630249f32640",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 150
+    },
+    "21_3": {
+      "path": "large_size/21_3.inc",
+      "sha256_normalized_lf": "14df0da64da642621b8aeb55b0882ac00dfb34844b34d202378ac16f10922383",
+      "n_items": 300,
+      "n_knapsacks": 10,
+      "n_classes": 150
+    },
+    "24_1": {
+      "path": "large_size/24_1.inc",
+      "sha256_normalized_lf": "d97f95ec3f43da151bbc978e02eb398ff4d76fb77ab945d0cbc150aeab6357aa",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 150
+    },
+    "24_2": {
+      "path": "large_size/24_2.inc",
+      "sha256_normalized_lf": "e9ef8547f2a9d9eeab2acb1ad531ce6518bbaaab724438aaab334762d9f784b5",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 150
+    },
+    "24_3": {
+      "path": "large_size/24_3.inc",
+      "sha256_normalized_lf": "8a575da06a837d4fb5691ff906920afc18107d09550da06aa3349eb4dc12cbc9",
+      "n_items": 300,
+      "n_knapsacks": 30,
+      "n_classes": 150
+    }
+  }
+}
